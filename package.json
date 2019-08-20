@@ -10,7 +10,7 @@
     "test": "jest && standard"
   },
   "dependencies": {
-    "probot": "^6.0.0",
+    "probot": "^9.3.2",
     "uuid": "^3.2.1"
   },
   "devDependencies": {
